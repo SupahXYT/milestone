@@ -1,5 +1,5 @@
 .homecover{
-    background-image: url(dark.jpg);
+    background-image: url(images/dark.jpg);
 }
 
 #textbox {
@@ -27,6 +27,26 @@
 
 .row-padding {
   padding-top: 20px;
+}
+
+.search-form {
+  padding: 10px;
+}
+
+.search-header {
+  background-color: black;
+}
+
+.search-element {
+  padding: 10px;
+}
+
+.releases {
+  padding: 10px;
+}
+
+.results {
+  padding: 10px;
 }
 
 #generic-padding {
